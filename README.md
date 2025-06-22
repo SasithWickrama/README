@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sasith Wickramasinghe</h1>
-<h3 align="center">Senior Systems Engineer | SRE | DevOps Specialist</h3>
+<h3 align="center">IT-Solutions Development Engineer | SRE | DevOps Specialist</h3>
 <h4 align="center">Cloud Infrastructure | Automation | Telecom Systems | API Development</h4>
 
 <p align="center">
